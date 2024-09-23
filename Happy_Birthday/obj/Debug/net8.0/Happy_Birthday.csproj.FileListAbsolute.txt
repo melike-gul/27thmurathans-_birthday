@@ -1,0 +1,14 @@
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/bin/Debug/net8.0/Happy_Birthday
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/bin/Debug/net8.0/Happy_Birthday.deps.json
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/bin/Debug/net8.0/Happy_Birthday.runtimeconfig.json
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/bin/Debug/net8.0/Happy_Birthday.dll
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/bin/Debug/net8.0/Happy_Birthday.pdb
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/obj/Debug/net8.0/Happy_Birthday.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/obj/Debug/net8.0/Happy_Birthday.AssemblyInfoInputs.cache
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/obj/Debug/net8.0/Happy_Birthday.AssemblyInfo.cs
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/obj/Debug/net8.0/Happy_Birthday.csproj.CoreCompileInputs.cache
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/obj/Debug/net8.0/Happy_Birthday.dll
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/obj/Debug/net8.0/refint/Happy_Birthday.dll
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/obj/Debug/net8.0/Happy_Birthday.pdb
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/obj/Debug/net8.0/Happy_Birthday.genruntimeconfig.cache
+/Users/melikegul/Documents/27thmurathans-_birthday/Happy_Birthday/obj/Debug/net8.0/ref/Happy_Birthday.dll
